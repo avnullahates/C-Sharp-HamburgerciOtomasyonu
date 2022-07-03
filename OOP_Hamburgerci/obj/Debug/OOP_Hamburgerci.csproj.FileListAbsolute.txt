@@ -1,0 +1,14 @@
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\4. Gun\HamburgerciOtomasyonu\OOP_Hamburgerci\bin\Debug\OOP_Hamburgerci.exe.config
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\4. Gun\HamburgerciOtomasyonu\OOP_Hamburgerci\bin\Debug\OOP_Hamburgerci.exe
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\4. Gun\HamburgerciOtomasyonu\OOP_Hamburgerci\bin\Debug\OOP_Hamburgerci.pdb
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\4. Gun\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.MyMdiForm.resources
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\4. Gun\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Properties.Resources.resources
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\4. Gun\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.csproj.GenerateResource.cache
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\4. Gun\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\4. Gun\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.exe
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\4. Gun\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.pdb
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\4. Gun\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.csproj.AssemblyReference.cache
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\4. Gun\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.SiparisOlusturForm.resources
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\4. Gun\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.MenuBilgileriForm.resources
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\4. Gun\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.ExtraMalzemeForm.resources
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\4. Gun\HamburgerciOtomasyonu\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.TumSiparislerForm.resources
